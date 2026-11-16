@@ -28,3 +28,4 @@ mvn clean test
 
 ## Integrantes
 - Frederico Truocchio
+- Observação : fiz sozinho porque eu cheguei atrasado e eu estava de atestado.
